@@ -48,6 +48,15 @@ The dataset contains retail sales transactions with information about:
 
 The original dataset contained 600 rows. After data cleaning, 596 clean rows remained.
 
+## Project Structure
+
+- `analysis.ipynb` - Main analysis notebook containing the data cleaning, analysis, calculations, and visualisations.
+- `helpers.py` - Helper functions used to perform reusable calculations.
+- `data/sales_data.csv` - Retail sales dataset used for the analysis.
+- `charts/` - Contains the generated visualisation images.
+- `requirements.txt` - Python libraries required to run the project.
+- `README.md` - Project documentation and instructions.
+
 ## Data Cleaning
 
 The dataset was checked and cleaned before analysis.
