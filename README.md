@@ -7,10 +7,11 @@
 
 Clone the repository and open the project folder in the terminal:
 
+```markdown
 ```bash
-git clone <https://github.com/UwaizLovell/retail-sales-analysis.git>
-cd retail-sales-analysis
-pip install -r requirements.txt
+##git clone <https://github.com/UwaizLovell/retail-sales-analysis.git>
+##cd retail-sales-analysis
+##pip install -r requirements.txt
 
 ## Project Overview
 
