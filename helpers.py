@@ -21,5 +21,3 @@ def revenue_by_product(df):
 # Calculate total revenue by month
 def revenue_by_month(df):
     return df.groupby(df["date"].dt.to_period("M"))["revenue"].sum()
-
-
